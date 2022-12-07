@@ -40,9 +40,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/TaehoonLeee       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/태훈-이-7b9563237/
 
 google_site_verification:               # fill in to your verification string
 
@@ -77,7 +75,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'assets/48707020.jpeg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
