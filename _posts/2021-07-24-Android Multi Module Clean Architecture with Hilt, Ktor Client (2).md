@@ -148,9 +148,6 @@ interface RepositoryModule {
 ```
 {: .nolineno }
 
-#### HttpClient
-[Create HttpClient](#Create-HttpClient)와 같이 설정을 해줍니다.
-
 #### UnsplashRepository
 ```kotlin
 interface UnsplashRepository {
